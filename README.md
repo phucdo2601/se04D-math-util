@@ -1,4 +1,5 @@
 ## Welcome to Math Utility Repository. This repo offers various math methods uesd as a helper for your project
+<<<<<<< HEAD
 
 ### You wil find find in this repo the following stuff:
 * .gitignore itself to demonstrate how Git tool will upload a file or not  
