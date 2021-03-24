@@ -1,5 +1,6 @@
 ## Welcome to Math Utility Repository. This repo offers various math methods uesd as a helper for your project
 <<<<<<< HEAD
+[![Math - util |Demo CI process| ©2021 by phucdo2601](https://github.com/phucdo2601/se04D-math-util/actions/workflows/math.yml/badge.svg)](https://github.com/phucdo2601/se04D-math-util/actions/workflows/math.yml)
 
 ### You wil find find in this repo the following stuff:
 * .gitignore itself to demonstrate how Git tool will upload a file or not  
