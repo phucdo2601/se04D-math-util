@@ -11,7 +11,7 @@ import com.phucdn.mathUtil.MathUtility;
  *
  * @author phucd
  */
-public class Se04DMathUtil {
+public class main {
 
     /**
      * @param args the command line arguments
